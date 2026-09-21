@@ -4,7 +4,7 @@
 
 Colección de física numérica, MATLAB/Simulink, modelado asistido por Lean y trabajos introductorios de CAD.
 
-Incluye mecánica orbital, movimiento armónico, colisiones, métodos numéricos, circuitos y baterías en Simulink, modelos de desplazamiento de satélites y sólidos básicos de FreeCAD.
+Incluye mecánica orbital, movimiento armónico, colisiones, métodos numéricos, circuitos y baterías en Simulink, notebooks de desplazamiento de satélites, un modelo Lean en `Lean/SatelliteDisplacementLeanModel.lean` y sólidos básicos de FreeCAD.
 
 ## Limitaciones
 

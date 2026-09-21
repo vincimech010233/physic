@@ -9,12 +9,12 @@ A collection of numerical physics, MATLAB/Simulink, Lean-assisted modelling, and
 - Orbital mechanics, harmonic motion, collisions, photon energy, and numerical differentiation
 - Euler integration, Gaussian elimination, and scientific visualisation
 - MATLAB/Simulink circuits, battery and converter models
-- Satellite-displacement modelling notebooks
+- Satellite-displacement modelling notebooks and a Lean source model at `Lean/SatelliteDisplacementLeanModel.lean`
 - Introductory FreeCAD solids
 
 ## Usage
 
-Python exercises can generally be run individually with Python 3. MATLAB, Simulink, Live Scripts, Lean-related notebooks, and FreeCAD files require their respective applications and compatible versions.
+Python exercises can generally be run individually with Python 3. MATLAB, Simulink, Live Scripts, Lean, and FreeCAD files require their respective applications and compatible versions.
 
 ## Limitations
 
