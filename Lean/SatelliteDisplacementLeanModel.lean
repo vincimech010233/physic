@@ -1,4 +1,3 @@
-%%writefile ejercicio1.lean
 -- Definición de constantes para el modelo de satélite
 def k : Float := 0.05
 def s0 : Float := 100.0 -- Desplazamiento inicial
